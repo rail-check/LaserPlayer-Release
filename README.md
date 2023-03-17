@@ -1,4 +1,13 @@
 # LaserPlayer
+## What's Changed
+* 增加心轨附近，两根轨道合成一根时，提取异常的bug（只完成了左前激光器处理）。 by @jayson9983 in https://github.com/rail-check/LaserPlayer/pull/11
+* 优化廓形提取算法。 by @jayson9983 in https://github.com/rail-check/LaserPlayer/pull/17
+
+## New Contributors
+* @jayson9983 made their first contribution in https://github.com/rail-check/LaserPlayer/pull/11
+
+**Full Changelog**: https://github.com/rail-check/LaserPlayer/compare/v1.6...v1.7.0
+
 
 ## 命令行格式
 
