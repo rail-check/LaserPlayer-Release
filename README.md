@@ -1,8 +1,5 @@
 # LaserPlayer
-## What's Changed
-* 更改对准时间
-* 增加pps超时判断,优化里程计组合策略和误差估计策略
-* 更改杆臂误差补偿策略 by @jayson9983 in https://github.com/rail-check/LaserPlayer/pull/17
+v1.8.2
 
 
 ## 命令行格式
